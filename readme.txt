@@ -1,2 +1,2 @@
  We solve problems sir
-![](Squid.png)
+![My image](/Desktop/Solving_problems/Squid.png)
