@@ -1,2 +1,2 @@
  We solve problems sir
-![My Image](squid.png)
+[My Image](squid.png)
